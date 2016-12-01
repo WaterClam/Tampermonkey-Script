@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CMS自动登录
 // @namespace    http://cms.cntv.cn/
-// @version      0.1
+// @version      0.2
 // @description  CMS跳过验证码，自动登录。需要在脚本中设置用户名和密码。
 // @author       Helory
 // @match        http://cms.cntv.cn/
