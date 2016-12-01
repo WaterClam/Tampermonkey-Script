@@ -96,9 +96,9 @@
         //return oldFunction(text);
     };
     var username = document.getElementById('userName'); //得到元素， userName为元素id
-    username.value = 'zhaoyulin'; //改变元素内容
+    username.value = 'username'; //改变元素内容
     var passd = document.getElementById('passWord');
-    passd.value = 'ZYLboy19920913201601';
+    passd.value = 'passd';
     var certCode = document.getElementById('certCode');
     certCode.value = 'cert';
     var Login = document.getElementById('submit'); //获取想要提交的按钮
